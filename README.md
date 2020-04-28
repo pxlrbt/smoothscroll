@@ -1,6 +1,6 @@
 # Smoothscroll
 
-Smoothly scroll to anchor links.
+Simple vanilla js library to smoothly scroll to anchors.
 
 ## Installation
 

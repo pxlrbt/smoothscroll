@@ -1,7 +1,7 @@
 {
   "name": "@pxlrbt/smoothscroll",
   "version": "1.0.0",
-  "description": "Smoothly scroll to anchor links.",
+  "description": "Simple vanilla js library to smoothly scroll to anchors.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,11 +11,14 @@
     "url": "git+ssh://git@github.com/pxlrbt/smoothscroll.git"
   },
   "keywords": [
+    "smoothscroll",
+    "smooth-scrolling",
+    "anchor-scroll",
     "js",
     "javascript",
-    "smoothscroll",
-    "anchor",
-    "scroll"
+    "vanilla-javascript",
+    "vanilla-js",
+    "vanillajs"
   ],
   "author": "Dennis Koch",
   "license": "MIT",
